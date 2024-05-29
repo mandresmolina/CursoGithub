@@ -16,4 +16,6 @@ main(){
     while(ddd);
 
     println("Commit 2");
+
+    println("Commit 3");
 }
