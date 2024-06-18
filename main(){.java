@@ -11,7 +11,7 @@ main(){
 
     if (n==20){
         println("40000");
-
+    println("prueba de cambios en github");
     }
 
     while(ddd);
