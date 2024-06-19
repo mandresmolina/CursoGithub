@@ -14,7 +14,7 @@ main(){
     println("prueba de cambios en github");
     }
 
-    println("prueba con ssh");
+    println("prueba con ssh Modificado desde github");
     while(ddd);
 
     println("Commit 2");
